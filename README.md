@@ -48,7 +48,7 @@ Not applicable. This repository focuses on infrastructure provisioning and remot
 
 ## Video
 
-https://github.com/user-attachments/assets/4aa6ecab-4355-4c05-8b69-ea74120a51cf
+https://github.com/user-attachments/assets/8638e784-e63c-4d8a-a67b-adbd121929e0
 
 
 
