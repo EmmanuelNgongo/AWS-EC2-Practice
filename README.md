@@ -42,6 +42,7 @@ Replace SSH access with AWS Systems Manager (SSM) for improved security and audi
 
 Not applicable. This repository focuses on infrastructure provisioning and remote access rather than application execution.
 
-Video
+## Architecture Diagram
 
-A video walkthrough of the project will be added here.
+![EC2 SSH Architecture](diagrams/ec2-ssh-architecture.png)
+
