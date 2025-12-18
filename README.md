@@ -46,3 +46,10 @@ Not applicable. This repository focuses on infrastructure provisioning and remot
 
 ![EC2 SSH Architecture](diagrams/ec2-ssh-architecture.png)
 
+## Video
+
+https://github.com/user-attachments/assets/4aa6ecab-4355-4c05-8b69-ea74120a51cf
+
+
+
+
