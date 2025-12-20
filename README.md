@@ -26,6 +26,12 @@ Scaled vertically by changing the instance type
 
 Scaled horizontally by adding more instances
 
+I learned that When establishing an SSH connection, the EC2 instance listens on port 22,
+while the client machine uses a dynamically assigned ephemeral source port. The following commands helps to find out 
+which port is used to establish a ssh connection between the client computer and the ec2 instance:
+For windows (Powershell): netstat -ano | findstr :22
+For linux or macOS: netstat -tnp | grep :22
+
 I also learned that EC2 instances can be created on demand in less than a minute, which makes them far more practical and efficient than procuring, setting up, and maintaining physical servers.
 
 # Possible Improvements
